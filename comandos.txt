@@ -1,0 +1,11 @@
+git init
+git config user.name
+git config user.email
+
+git add.
+git commit  -m  "Mensagem"
+
+git log
+git status
+git branch "nova branch" 
+git  checkount nova_Branch
